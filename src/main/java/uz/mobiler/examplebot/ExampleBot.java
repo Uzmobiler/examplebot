@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import uz.mobiler.examplebot.entity.ImageEntity;
-import uz.mobiler.examplebot.repository.ImageRepository;
 import uz.mobiler.examplebot.service.ImageService;
 
 import java.util.List;
